@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @mzmkts
+/src/backend/database.py      @mzmkts
+/src/backend/routers/auth.py  @mzmkts
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @mzmkts
